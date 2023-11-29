@@ -37,7 +37,9 @@ Form a cross-functional team comprising individuals from order processing, quali
 * Prioritize improvements based on their impact on the order fulfillment process.
 
  <img width="933" alt="Screenshot 2023-11-29 at 22 19 39" src="https://github.com/Stanitaa/Problem-solve-Process-mapping/assets/152231834/f1b8c5d7-830e-427a-ad54-020a766673a9">
+
 simplified process map for Amazon problem-solving contents 
+
 1. **Receive Items**
    - Monitor POPS for drops.
    - Rodeo for accurate references.
